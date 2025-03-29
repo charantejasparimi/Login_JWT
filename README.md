@@ -21,7 +21,7 @@ This is a RESTful API for user authentication and profile management using **Nod
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/your-repo/user-profile-api.git
-cd user-profile-api
+cd Login_JWT
 ```
 ### 2. Install Dependencies
 ```sh
